@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋Hello , I am B Sai Kumar
 
 <!--
 **bsaikumar333/bsaikumar333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+echo "# My Portfolio" >> README.md
+git add README.md
+git commit -m "Added README"
+git push
 -->
