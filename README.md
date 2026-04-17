@@ -1,6 +1,8 @@
 <div align="center">
   
-# 👋 Hi, I'm **B Sai Kumar** | <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;AI+Explorer;Tech+Innovator" alt="Typing SVG" />
+# 👋 Hi, I'm **B Sai Kumar**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;AI+Explorer;Tech+Innovator" alt="Typing SVG" />
 
 ---
 
@@ -8,7 +10,7 @@
 
 <div align="left">
 
-I'm a **BSc Computer Science student** from **Hyderabad, India**, passionate about transforming ideas into impactful web applications. I specialize in full-stack web development and constantly explore emerging technologies. I'm driven by the desire to create meaningful, user-centric solutions and love turning complex problems into elegant applications.
+I'm a **BSc Computer Science student** from **Hyderabad, India**, passionate about full-stack web development, AI, and transforming ideas into impactful applications.
 
 ### ⚡ What Drives Me:
 - 🚀 **Currently Building**: Full-stack web applications with MERN Stack
