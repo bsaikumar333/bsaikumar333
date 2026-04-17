@@ -111,8 +111,8 @@ Pull Requests: 5
 I'd love to connect and collaborate! Reach out through any of these channels:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bsaikumar333)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vemireddy-bhavana)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavanaverireddy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bayineni-sai-kumar/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikumarbayineni333@gmail.com)
 
 ---
 
@@ -129,7 +129,7 @@ I'm always interested in:
 
 ## 📈 My Goals
 
-- 🎯 Become a full-stack expert in MERN ecosystem
+- 🎯 Become a full-stack expert in MERN ecosystem 
 - 🤖 Build AI-powered applications that solve real problems
 - 🌍 Contribute to open-source community
 - 📱 Master mobile-responsive web design
