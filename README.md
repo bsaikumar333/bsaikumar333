@@ -100,6 +100,7 @@ Pull Requests: 5
 
 - ✅ Building scalable full-stack applications with MERN
 - ✅ Exploring AI/ML for real-world applications
+- ✅ Mastering Data Structures & Algorithms (DSA)
 - ✅ Contributing to open-source projects
 - ✅ Learning cloud deployment (AWS, Vercel)
 - ✅ Developing accessibility-first web applications
