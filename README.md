@@ -2,7 +2,11 @@
   
 # 👋 Hi, I'm **B Sai Kumar**
 
+<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;AI+Explorer;Tech+Innovator" alt="Typing SVG" />
+
+<br>
 
 ---
 
