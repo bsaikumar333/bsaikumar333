@@ -6,19 +6,6 @@
 
 ---
 
-<table>
-  <tr>
-    <td><b>🔗 Quick Links</b></td>
-    <td>
-      <a href="https://github.com/bsaikumar333">GitHub</a> • 
-      <a href="https://www.linkedin.com/in/bayineni-sai-kumar/">LinkedIn</a> • 
-      <a href="mailto:saikumarbayineni333@gmail.com">Email</a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
 ---
 
 ## 🎯 About Me
