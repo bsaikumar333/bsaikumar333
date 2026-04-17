@@ -1,0 +1,247 @@
+/* globals.css or index.css */
+/* Tailwind CSS directives and custom styles */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/**
+ * 🎨 CUSTOM STYLES
+ * 
+ * This file imports all Tailwind directives and includes custom CSS
+ * for additional styling not covered by Tailwind utilities.
+ */
+
+/* ============ BASE LAYER ============ */
+@layer base {
+  /* Custom font imports if needed */
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+  /* Base element styles */
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-slate-950 text-gray-100 antialiased;
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+/* ============ COMPONENT LAYER ============ */
+@layer components {
+  /* Gradient text utility */
+  .text-gradient {
+    @apply text-transparent bg-clip-text bg-gradient-to-r;
+  }
+
+  /* Glow effect utility */
+  .glow-effect {
+    @apply shadow-lg shadow-purple-500/20 hover:shadow-purple-500/40 transition-shadow duration-300;
+  }
+
+  /* Card base styles */
+  .card-base {
+    @apply rounded-xl border border-slate-700/50 bg-gradient-to-br from-slate-800/50 to-slate-900/50;
+  }
+
+  /* Smooth transitions */
+  .smooth-transition {
+    @apply transition-all duration-300 ease-out;
+  }
+
+  /* Center flex */
+  .flex-center {
+    @apply flex items-center justify-center;
+  }
+
+  /* Text truncate */
+  .truncate-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  /* Responsive text sizes */
+  .text-responsive {
+    @apply text-2xl md:text-3xl lg:text-4xl;
+  }
+
+  /* Hover scale effect */
+  .hover-scale {
+    @apply hover:scale-105 transition-transform duration-300;
+  }
+
+  /* Hover lift effect */
+  .hover-lift {
+    @apply hover:-translate-y-1 hover:shadow-lg transition-all duration-300;
+  }
+
+  /* Gradient border */
+  .border-gradient {
+    @apply border border-transparent bg-clip-padding;
+    background-image: linear-gradient(#03050a, #03050a), linear-gradient(135deg, #06b6d4, #a855f7);
+    background-origin: border-box;
+    background-clip: padding-box, border-box;
+  }
+}
+
+/* ============ UTILITY LAYER ============ */
+@layer utilities {
+  /* No scroll bar */
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Custom scrollbar */
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: rgba(30, 41, 59, 0.5);
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: linear-gradient(135deg, #06b6d4, #a855f7);
+    border-radius: 4px;
+  }
+
+  /* Backdrop blur effects */
+  .backdrop-blur-md {
+    backdrop-filter: blur(12px);
+  }
+
+  /* Glass morphism effect */
+  .glass {
+    @apply bg-white/10 backdrop-blur-md border border-white/20;
+  }
+
+  /* Neon glow effects */
+  .neon-glow-cyan {
+    @apply shadow-[0_0_10px_rgba(6,182,212,0.5)] hover:shadow-[0_0_20px_rgba(6,182,212,0.8)] transition-shadow;
+  }
+
+  .neon-glow-purple {
+    @apply shadow-[0_0_10px_rgba(168,85,247,0.5)] hover:shadow-[0_0_20px_rgba(168,85,247,0.8)] transition-shadow;
+  }
+
+  .neon-glow-pink {
+    @apply shadow-[0_0_10px_rgba(236,72,153,0.5)] hover:shadow-[0_0_20px_rgba(236,72,153,0.8)] transition-shadow;
+  }
+
+  /* Animated gradient background */
+  @keyframes gradient-shift {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+  .animated-gradient {
+    background-size: 200% 200%;
+    animation: gradient-shift 8s ease infinite;
+  }
+
+  /* Floating animation */
+  @keyframes float {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+
+  .animate-float {
+    animation: float 4s ease-in-out infinite;
+  }
+
+  /* Pulse text animation */
+  @keyframes pulse-text {
+    0%, 100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.7;
+    }
+  }
+
+  .animate-pulse-text {
+    animation: pulse-text 2s ease-in-out infinite;
+  }
+
+  /* Grid background pattern */
+  .grid-background {
+    background-image:
+      linear-gradient(rgba(148, 163, 184, 0.1) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(148, 163, 184, 0.1) 1px, transparent 1px);
+    background-size: 50px 50px;
+  }
+
+  /* Responsive grid columns */
+  .grid-auto-fit {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+  }
+
+  /* Text shadow effects */
+  .text-shadow {
+    text-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  .text-shadow-lg {
+    text-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  }
+
+  /* Container queries utilities */
+  @supports (container-type: inline-size) {
+    .container-sm {
+      container-type: inline-size;
+    }
+
+    @container (min-width: 400px) {
+      .sm\:text-lg {
+        font-size: 1.125rem;
+      }
+    }
+  }
+}
+
+/**
+ * 🚀 HOW TO USE THESE UTILITIES
+ * 
+ * In your components, use these classes:
+ * 
+ * <div class="text-gradient from-cyan-400 to-purple-500">
+ *   Gradient Text
+ * </div>
+ * 
+ * <div class="card-base glow-effect hover-lift">
+ *   Card Content
+ * </div>
+ * 
+ * <div class="glass backdrop-blur-md">
+ *   Glass Morphism Effect
+ * </div>
+ * 
+ * <div class="animate-float">
+ *   Floating Element
+ * </div>
+ * 
+ * <div class="neon-glow-purple">
+ *   Neon Glow Effect
+ * </div>
+ */
