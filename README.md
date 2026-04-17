@@ -1,44 +1,63 @@
-# 👋 Hi, I'm B Sai Kumar
+<div align="center">
+  
+# 👋 Hi, I'm **B Sai Kumar**
 
-> **Full Stack Developer** | **MERN Stack Enthusiast** | **AI Explorer** | **Tech Innovator**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;AI+Explorer;Tech+Innovator" alt="Typing SVG" />
 
-```
-Turning ideas into impactful web experiences ✨
-Building real-world solutions with passion & creativity
-```
+---
+
+<table>
+  <tr>
+    <td><b>🔗 Quick Links</b></td>
+    <td>
+      <a href="https://github.com/bsaikumar333">GitHub</a> • 
+      <a href="https://www.linkedin.com/in/bayineni-sai-kumar/">LinkedIn</a> • 
+      <a href="mailto:saikumarbayineni333@gmail.com">Email</a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 ## 🎯 About Me
 
+<div align="left">
+
 I'm a **BSc Computer Science student** from **Hyderabad, India**, passionate about transforming ideas into impactful web applications. I specialize in full-stack web development and constantly explore emerging technologies. I'm driven by the desire to create meaningful, user-centric solutions and love turning complex problems into elegant applications.
 
+### ⚡ What Drives Me:
 - 🚀 **Currently Building**: Full-stack web applications with MERN Stack
 - 🤖 **Exploring**: AI & Machine Learning applications
 - 💡 **Passionate About**: Real-world problem solving & innovative web experiences
 - 📊 **Learning**: Advanced backend architecture & cloud technologies
 - 🏆 **Role**: Logistics Manager at Robotics Club NIAT
 
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### **Languages**
-![HTML](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Frontend**
+### **Frontend Development**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-FF6B6B?style=for-the-badge&logo=web&logoColor=white)
 
-### **Backend**
+### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Rest APIs](https://img.shields.io/badge/REST_APIs-FF4500?style=for-the-badge&logo=api&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF4500?style=for-the-badge&logo=api&logoColor=white)
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -50,39 +69,60 @@ I'm a **BSc Computer Science student** from **Hyderabad, India**, passionate abo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+</div>
+
 ---
 
 ## 📂 Featured Projects
 
-### 🧠 **StudySync AI**
-*AI-powered education platform leveraging generative AI for personalized learning*
-- Features structured navigation and smart guidance for academic decisions
-- Provides career support, entrance exam guidance, and mentorship support
-- **Tech**: React, Node.js, AI/ML Integration
-- **Status**: 🚀 Active Development
-
-### 🎙️ **Voice Anchor**
-*Voice-first AI companion for children with Autism*
-- Provides personalized guidance and calming support
-- Reduces anxiety and assists in daily routines and transitions
-- **Features**: Voice interaction, AI-powered responses, accessible design
-- **Tech**: React, Node.js, Voice APIs
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 StudySync AI</h3>
+      <p><i>AI-powered education platform leveraging generative AI for personalized learning</i></p>
+      <ul>
+        <li>Structured navigation & smart guidance</li>
+        <li>Career support & exam prep</li>
+        <li>Mentorship integration</li>
+      </ul>
+      <p><b>Tech Stack:</b> React • Node.js • AI/ML</p>
+      <p><b>Status:</b> 🚀 Active Development</p>
+    </td>
+    <td width="50%">
+      <h3>🎙️ Voice Anchor</h3>
+      <p><i>Voice-first AI companion for children with Autism</i></p>
+      <ul>
+        <li>Personalized guidance</li>
+        <li>Anxiety reduction</li>
+        <li>Accessible voice interaction</li>
+      </ul>
+      <p><b>Tech Stack:</b> React • Node.js • Voice APIs</p>
+      <p><b>Status:</b> 🚀 Active Development</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-```
-Total Contributions: 96
-Current Streak: 3 days
-Longest Streak: 3 days
-Total Commits (2025): 79
-Pull Requests: 5
-```
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| Total Contributions | 96 |
+| Total Commits (2025) | 79 |
+| Pull Requests | 5 |
+| Current Streak | 3 days 🔥 |
+| Longest Streak | 3 days 🔥 |
+
+</div>
 
 ---
 
 ## 🎓 Skills & Expertise
+
+<div align="center">
 
 | Category | Skills |
 |----------|--------|
@@ -94,64 +134,109 @@ Pull Requests: 5
 | **Tools & Version Control** | Git, GitHub, VS Code, Command Line |
 | **Soft Skills** | Team Collaboration, Communication, Leadership |
 
+</div>
+
 ---
 
 ## 🌟 What I'm Currently Working On
 
-- ✅ Building scalable full-stack applications with MERN
-- ✅ Exploring AI/ML for real-world applications
-- ✅ Mastering Data Structures & Algorithms (DSA)
-- ✅ Contributing to open-source projects
-- ✅ Learning cloud deployment (AWS, Vercel)
-- ✅ Developing accessibility-first web applications
+<div align="center">
+
+```
+📌 ACTIVE PROJECTS & LEARNING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ Building scalable full-stack applications with MERN
+✅ Exploring AI/ML for real-world applications
+✅ Mastering Data Structures & Algorithms (DSA)
+✅ Contributing to open-source projects
+✅ Learning cloud deployment (AWS, Vercel)
+✅ Developing accessibility-first web applications
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-I'd love to connect and collaborate! Reach out through any of these channels:
+<div align="center">
+
+<p>I'd love to connect and collaborate! Let's build something amazing together</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bsaikumar333)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bayineni-sai-kumar/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikumarbayineni333@gmail.com)
 
+</div>
+
 ---
 
 ## 💬 Let's Collaborate!
 
+<div align="left">
+
 I'm always interested in:
-- 🤝 Contributing to meaningful open-source projects
-- 💻 Freelance opportunities for web development
-- 🧠 Learning from experienced developers
-- 🚀 Building innovative solutions to real-world problems
-- 📚 Sharing knowledge and mentoring others
+- 🤝 **Open Source** - Contributing to meaningful projects
+- 💻 **Freelance** - Web development opportunities
+- 🧠 **Learning** - From experienced developers
+- 🚀 **Innovation** - Building solutions to real-world problems
+- 📚 **Mentoring** - Sharing knowledge with others
+
+</div>
 
 ---
 
 ## 📈 My Goals
 
-- 🎯 Become a full-stack expert in MERN ecosystem 
-- 🤖 Build AI-powered applications that solve real problems
-- 🌍 Contribute to open-source community
-- 📱 Master mobile-responsive web design
-- 🔐 Learn cloud infrastructure & DevOps
+<div align="center">
+
+```
+🎯 ROADMAP TO SUCCESS
+╔════════════════════════════════════════════════╗
+║ • Become a full-stack MERN expert             ║
+║ • Build impactful AI-powered applications      ║
+║ • Contribute to open-source community          ║
+║ • Master mobile-responsive design              ║
+║ • Learn cloud & DevOps infrastructure         ║
+╚════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
 ## 🎉 Fun Facts About Me
 
-- 🌱 Life philosophy: "Always learning, always building"
-- 🎯 I love turning complex ideas into simple solutions
-- 🚀 Tech nerd with a passion for innovation
-- 💡 Believe in the power of technology to create positive impact
-- 📚 Continuous learner exploring new tech stack updates
+<div align="center">
+
+| 🌱 | Life philosophy: **"Always learning, always building"** |
+|----|-----|
+| 🎯 | I love turning **complex ideas into simple solutions** |
+| 🚀 | **Tech nerd** with a passion for innovation |
+| 💡 | Believe in **technology's power to create positive impact** |
+| 📚 | **Continuous learner** exploring new tech stacks |
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ If you find my projects interesting, consider giving them a star! It motivates me to create more amazing projects. ⭐
+## ✨ Let's Connect & Build Great Things Together! ✨
 
-**Made with ❤️ by B Sai Kumar**
+<p>
+  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-🚀-brightgreen?style=for-the-badge" alt="Open to Opportunities">
+</p>
+
+### ⭐ If you find my work interesting, star ⭐ my repositories to show support!
+
+---
+
+<p>
+  <b>Made with ❤️ by B Sai Kumar</b>
+  <br>
+  <sub>🌍 From Hyderabad, India | 📍 NIAT | 💼 Full Stack Developer</sub>
+</p>
 
 </div>
