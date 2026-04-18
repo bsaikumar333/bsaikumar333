@@ -177,19 +177,6 @@ I'm always interested in:
 
 ---
 
-## 🎉 Fun Facts About Me
-
-<div align="center">
-
-| 🌱 | Life philosophy: **"Always learning, always building"** |
-|----|-----|
-| 🎯 | I love turning **complex ideas into simple solutions** |
-| 🚀 | **Tech nerd** with a passion for innovation |
-| 💡 | Believe in **technology's power to create positive impact** |
-| 📚 | **Continuous learner** exploring new tech stacks |
-
-</div>
-
 ---
 
 <div align="center">
