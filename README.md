@@ -131,11 +131,11 @@ I'm a **BSc Computer Science student** from **Hyderabad, India**, passionate abo
 
 <div>
  ✅ Building scalable full-stack applications with MERN</br>
- ✅ Exploring AI/ML for real-world applications
- ✅ Mastering Data Structures & Algorithms (DSA)
- ✅ Contributing to open-source projects
- ✅ Learning cloud deployment (AWS, Vercel)
- ✅ Developing accessibility-first web applications
+ ✅ Exploring AI/ML for real-world applications</br>
+ ✅ Mastering Data Structures & Algorithms (DSA)</br>
+ ✅ Contributing to open-source projects</br>
+ ✅ Learning cloud deployment (AWS, Vercel)</br>
+ ✅ Developing accessibility-first web applications</br>
 </div>
 ---
 
@@ -171,11 +171,11 @@ I'm always interested in:
 ## 📈 My Goals
 
 <div align = "center">
- 🎯 Become a full-stack MERN expert
- 🤖 Build impactful AI-powered applications
- 🌍 Contribute to open-source community
- 📱 Master mobile-responsive design
- 🔐 Learn cloud & DevOps infrastructure
+ 🎯 Become a full-stack MERN expert</br>
+ 🤖 Build impactful AI-powered applications</br>
+ 🌍 Contribute to open-source community</br>
+ 📱 Master mobile-responsive design</br>
+ 🔐 Learn cloud & DevOps infrastructure</br>
 </div>
 ---
 
