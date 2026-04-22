@@ -156,7 +156,7 @@ I'm a **BSc Computer Science student** from **Hyderabad, India**, passionate abo
 
 ## 💬 Let's Collaborate!
 
-<div align="left">
+<div align="center">
 
 I'm always interested in:
 - 🤝 **Open Source** - Contributing to meaningful projects
