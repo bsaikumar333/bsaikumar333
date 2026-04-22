@@ -129,14 +129,14 @@ I'm a **BSc Computer Science student** from **Hyderabad, India**, passionate abo
 
 ## 🌟 What I'm Currently Working On
 
-<ul>
+<ol>
  <li>✅ Building scalable full-stack applications with MERN</li>
  <li>✅ Exploring AI/ML for real-world applications</li>
  <li>✅ Mastering Data Structures & Algorithms (DSA)</li>
  <li>✅ Contributing to open-source projects</li>
  <li>✅ Learning cloud deployment (AWS, Vercel)</li>
  <li>✅ Developing accessibility-first web applications</li>
-</ul>
+</ol>
 ---
 
 ## 🤝 Connect With Me
