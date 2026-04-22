@@ -138,6 +138,8 @@ I'm a **BSc Computer Science student** from **Hyderabad, India**, passionate abo
  ✅ Developing accessibility-first web applications</br>
 </div>
 
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
