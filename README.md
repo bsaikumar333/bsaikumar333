@@ -177,9 +177,9 @@ I'm always interested in:
  📱 Master mobile-responsive design</br>
  🔐 Learn cloud & DevOps infrastructure</br>
 </div>
----
 
 ---
+</hr>
 
 <div align="center">
 
