@@ -137,8 +137,6 @@ I'm a **BSc Computer Science student** from **Hyderabad, India**, passionate abo
  ✅ Learning cloud deployment (AWS, Vercel)</br>
  ✅ Developing accessibility-first web applications</br>
 </div>
----
-</hr>
 
 ## 🤝 Connect With Me
 
