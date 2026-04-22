@@ -159,11 +159,11 @@ I'm a **BSc Computer Science student** from **Hyderabad, India**, passionate abo
 <div align="center">
 
 I'm always interested in:
-- 🤝 **Open Source** - Contributing to meaningful projects
-- 💻 **Freelance** - Web development opportunities
-- 🧠 **Learning** - From experienced developers
-- 🚀 **Innovation** - Building solutions to real-world problems
-- 📚 **Mentoring** - Sharing knowledge with others
+ 🤝 **Open Source** - Contributing to meaningful projects</br>
+ 💻 **Freelance** - Web development opportunities</br>
+ 🧠 **Learning** - From experienced developers</br>
+ 🚀 **Innovation** - Building solutions to real-world problems</br>
+ 📚 **Mentoring** - Sharing knowledge with others</br>
 
 </div>
 
